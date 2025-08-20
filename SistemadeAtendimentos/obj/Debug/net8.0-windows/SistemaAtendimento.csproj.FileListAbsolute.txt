@@ -1,0 +1,17 @@
+C:\SistemadeAtendimentos\SistemadeAtendimentos\bin\Debug\net8.0-windows\SistemaAtendimento.exe
+C:\SistemadeAtendimentos\SistemadeAtendimentos\bin\Debug\net8.0-windows\SistemaAtendimento.deps.json
+C:\SistemadeAtendimentos\SistemadeAtendimentos\bin\Debug\net8.0-windows\SistemaAtendimento.runtimeconfig.json
+C:\SistemadeAtendimentos\SistemadeAtendimentos\bin\Debug\net8.0-windows\SistemaAtendimento.dll
+C:\SistemadeAtendimentos\SistemadeAtendimentos\bin\Debug\net8.0-windows\SistemaAtendimento.pdb
+C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\SistemadeAtendimentos.FrmCadastroClientes.resources
+C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\SistemadeAtendimentos.FrmTelaPrincipal.resources
+C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\SistemaAtendimento.csproj.GenerateResource.cache
+C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\SistemaAtendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\SistemaAtendimento.AssemblyInfoInputs.cache
+C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\SistemaAtendimento.AssemblyInfo.cs
+C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\SistemaAtendimento.csproj.CoreCompileInputs.cache
+C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\SistemaAtendimento.dll
+C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\refint\SistemaAtendimento.dll
+C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\SistemaAtendimento.pdb
+C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\SistemaAtendimento.genruntimeconfig.cache
+C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\ref\SistemaAtendimento.dll
