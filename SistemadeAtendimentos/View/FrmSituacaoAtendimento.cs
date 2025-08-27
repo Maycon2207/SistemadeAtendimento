@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SistemadeAtendimentos
+namespace SistemaAtendimento.View
 {
-    public partial class FrmCadastroClientes : Form
+    public partial class FrmSituacaoAtendimento : Form
     {
-        public FrmCadastroClientes()
+        public FrmSituacaoAtendimento()
         {
             InitializeComponent();
         }
