@@ -16,5 +16,10 @@ namespace SistemaAtendimento.View
         {
             InitializeComponent();
         }
+
+        private void frmCadastroUsuario_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

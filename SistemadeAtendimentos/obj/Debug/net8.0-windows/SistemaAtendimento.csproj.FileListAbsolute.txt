@@ -65,3 +65,6 @@ C:\SistemadeAtendimentos\SistemadeAtendimentos\bin\Debug\net8.0-windows\runtimes
 C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\SistemaAtendimento.csproj.AssemblyReference.cache
 C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\SistemaAtendimento.sourcelink.json
 C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\SistemaA.407C7012.Up2Date
+C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\SistemaAtendimento.View.frmCadastroEtapa.resources
+C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\SistemaAtendimento.View.frmCadastroUsuario.resources
+C:\SistemadeAtendimentos\SistemadeAtendimentos\obj\Debug\net8.0-windows\SistemaAtendimento.View.FrmSituacaoAtendimento.resources

@@ -1,5 +1,6 @@
 using Microsoft.Data.SqlClient;
 using SistemaAtendimento.Database;
+using SistemaAtendimento.View;
 
 namespace SistemadeAtendimentos
 {
@@ -44,7 +45,9 @@ namespace SistemadeAtendimentos
 
         private void usuárioToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+            frmCadastroUsuario frmCadastroUsuario = new frmCadastroUsuario();
+            frmCadastroUsuario.ShowDialog();
+
         }
     }
 }
