@@ -17,6 +17,11 @@ namespace SistemaAtendimento.Model
 
         public string? SituacaoAtendimentoId { get; set; }
 
+        public string? ClienteNome { get; set; }
 
+        public string? SituacaoAtendimentoNome { get; set; }
+
+       
+        public string? UsuarioNome { get; set; }
     }
 }

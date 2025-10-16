@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SistemaAtendimento.View
 {
-    public partial class Consulta_Atendimento : Form
+    public partial class FrmConsultaAtendimento : Form
     {
-        public Consulta_Atendimento()
+        public FrmConsultaAtendimento()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace SistemaAtendimento.View
 {
-    partial class Consulta_Atendimento
+    partial class FrmConsultaAtendimento
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Consulta_Atendimento));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmConsultaAtendimento));
             dgvConsultaAtendimento = new DataGridView();
             btnPesquisar = new Button();
             txtPesquisa = new TextBox();
@@ -96,14 +96,14 @@
             grbFiltro.TabStop = false;
             grbFiltro.Text = "Filtrar  por:";
             // 
-            // Consulta_Atendimento
+            // FrmConsultaAtendimento
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 485);
             Controls.Add(grbFiltro);
             Controls.Add(dgvConsultaAtendimento);
-            Name = "Consulta_Atendimento";
+            Name = "FrmConsultaAtendimento";
             Text = "Consulta de Atendimento";
             ((System.ComponentModel.ISupportInitialize)dgvConsultaAtendimento).EndInit();
             grbFiltro.ResumeLayout(false);
